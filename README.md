@@ -5,6 +5,17 @@ A Spring Boot backend that demonstrates **offline UPI payments routed through a 
 This repo is the **server side** of that system, plus a software simulator of the mesh so you can demo the whole flow on a single laptop without any real Bluetooth hardware.
 
 ---
+## Live Demo
+
+https://offline-upi-mesh-demo-production.up.railway.app/
+
+---
+
+## GitHub Repository
+
+https://github.com/SHREYANK-RAJ/offline-upi-mesh-demo
+
+---
 
 ## Table of Contents
 
@@ -402,4 +413,26 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 ## License
 
-Demo code, no license. Use it however you want for learning.
+Copyright © 2026 Shreyank Raj
+
+All Rights Reserved.
+
+This repository is provided solely for educational, demonstration, and portfolio purposes.
+
+You may view the source code for learning purposes.
+
+You may not copy, redistribute, republish, modify, or commercially use this project without prior written permission from the author.
+
+If you wish to use any part of this project, please contact the author first.
+
+---
+
+## Contact
+
+Shreyank Raj
+
+GitHub  
+https://github.com/SHREYANK-RAJ
+
+LinkedIn  
+https://www.linkedin.com/in/shreyank-raj/
