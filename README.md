@@ -7,7 +7,7 @@ This repo is the **server side** of that system, plus a software simulator of th
 ---
 ## Live Demo
 
-https://offline-upi-mesh-demo-production.up.railway.app/
+[https://upi-without-internet-sigma.vercel.app/](https://upi-without-internet-sigma.vercel.app/)
 
 ---
 
